@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/varkrishna/varkrishna.github.io/blob/main/app.ipa</string>
+					<string>https://varkrishna.github.io/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/varkrishna/varkrishna.github.io/blob/main/small.png</string>
+					<string>https://varkrishna.github.io/small.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/varkrishna/varkrishna.github.io/blob/main/large.png</string>
+					<string>https://varkrishna.github.io/large.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
